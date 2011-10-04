@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>name</key>
@@ -16,9 +16,9 @@
 				<key>foreground</key>
 				<string>#FFFFFF</string>
 				<key>invisibles</key>
-				<string>#404040</string>
+				<string>#686868</string>
 				<key>lineHighlight</key>
-				<string>#353637</string>
+				<string>#343536</string>
 				<key>selection</key>
 				<string>#5A647EE0</string>
 			</dict>
@@ -228,9 +228,9 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#CCCC33</string>
+				<string>#202020</string>
 				<key>foreground</key>
-				<string>#000000</string>
+				<string>#AAAAAA</string>
 			</dict>
 		</dict>
 		<dict>
@@ -262,6 +262,8 @@
 			<string>string.interpolated constant.character.escape</string>
 			<key>settings</key>
 			<dict>
+				<key>background</key>
+				<string>#212121</string>
 				<key>foreground</key>
 				<string>#787878</string>
 			</dict>
